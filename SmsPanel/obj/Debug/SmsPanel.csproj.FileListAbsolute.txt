@@ -1,0 +1,7 @@
+C:\Users\Milad-Light\Desktop\Sms\SMS\SmsPanel\bin\Debug\SmsPanel.dll.config
+C:\Users\Milad-Light\Desktop\Sms\SMS\SmsPanel\bin\Debug\SmsPanel.dll
+C:\Users\Milad-Light\Desktop\Sms\SMS\SmsPanel\bin\Debug\SmsPanel.pdb
+C:\Users\Milad-Light\Desktop\Sms\SMS\SmsPanel\obj\Debug\SmsPanel.csprojAssemblyReference.cache
+C:\Users\Milad-Light\Desktop\Sms\SMS\SmsPanel\obj\Debug\SmsPanel.csproj.CoreCompileInputs.cache
+C:\Users\Milad-Light\Desktop\Sms\SMS\SmsPanel\obj\Debug\SmsPanel.dll
+C:\Users\Milad-Light\Desktop\Sms\SMS\SmsPanel\obj\Debug\SmsPanel.pdb

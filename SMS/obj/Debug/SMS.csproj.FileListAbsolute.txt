@@ -1,0 +1,7 @@
+C:\Users\Milad-Light\Desktop\Sms\SMS\SMS\obj\Debug\SMS.csprojAssemblyReference.cache
+C:\Users\Milad-Light\Desktop\Sms\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+C:\Users\Milad-Light\Desktop\Sms\SMS\SMS\bin\Debug\SMS.exe.config
+C:\Users\Milad-Light\Desktop\Sms\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\Milad-Light\Desktop\Sms\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\Milad-Light\Desktop\Sms\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\Milad-Light\Desktop\Sms\SMS\SMS\obj\Debug\SMS.pdb
